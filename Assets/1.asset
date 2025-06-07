@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26ccde9da65c2c40bd8faae6d9f3fa3, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  instructionText: "\u0417\u0430\u0436\u043C\u0438\u0442\u0435 \u043B\u0435\u0432\u0443\u044E
+    \u043A\u043B\u0430\u0432\u0438\u0448\u0443 \u043C\u044B\u0448\u0438 \u0438\u043B\u0438
+    \u043F\u0430\u043B\u0435\u0446:"
+  exampleImage1: {fileID: 21300000, guid: 435aae4904fb338489abecda373d5ae9, type: 3}
+  exampleImage2: {fileID: 21300000, guid: aa2245a0634e6dc47bf9d31a5ba08e3b, type: 3}
+  completionCondition: SpawnBlock
+  waitForUserAction: 1
+  autoContinueAfter: 0
